@@ -112,3 +112,25 @@ color: #FFFFFF;
       </form>
   </div>
 
+        <script>
+        	function Enviar(){
+        	var emailCadastrado1 = "lucas.matheus0899@gmail.com";
+        	var senhaCadastrada1 = "123456789";
+          var emailCadastrado2 = "arturfidelis99@gmail.com";
+          var senhaCadastrada2 = "vaporada";
+          var emailCadastrado3 = "casioisidio@gmail.com";
+          var senhaCadastrada3 = "jackdaniels";
+          
+        	var emailFormulario = document.getElementById("email");
+        	var senhaFormulario = document.getElementById("password");
+        	if (emailFormulario.value == emailCadastrado && senhaFormulario.value == senhaCadastrada) {
+        	alert( 'Login efetuado com sucesso!');
+        	}
+        	else {
+        	alert('Sua conta ou senha está incorreta!');
+        	}
+        }
+        </script>
+
+</body>
+</html>
