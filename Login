@@ -25,3 +25,19 @@ border-radius: 2px;
   box-shadow: 0px 0px 20px black;
   overflow: hidden;
 }
+
+#login-box-label{
+  background-color: #9400D3; 
+  height: 45px;
+  text-align: center;
+  font: normal 25px/35px Old English Text MT;
+  border-bottom: 1px solid #bfc3c5;
+  box-shadow: 1px 5px 20px #dedede;
+  color: #fdfdfd; 
+  }
+
+.input-div{
+  margin: 20px;
+  padding: 5px;
+  background-color: #BA55D3;
+}
