@@ -87,3 +87,15 @@ color: #FFFFFF;
   font: normal 12px Lucida Handwriting;
   margin-left: 0px;
 }
+
+</style>
+</head>
+<body>
+  <div id= "login-box">
+    <div id= "login-box-interno">
+      <div id= "login-box-label"> Login </div>
+
+      <form onsubmit="Enviar()">
+      <div class= "input-div" id="input-usuario">
+        <input type= "email" id="email" placeholder="Digite seu Email" required/>
+        </div>
