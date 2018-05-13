@@ -60,3 +60,7 @@ border-radius: 2px;
 .input-div: hover input{
   border-color: #EE82EE;
 }
+
+  #input-senha{
+  margin-top: -10px;
+}
