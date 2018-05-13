@@ -41,3 +41,14 @@ border-radius: 2px;
   padding: 5px;
   background-color: #BA55D3;
 }
+
+.input-div input{
+  width: 350px;
+  height: 40px;
+  padding-left: 6px;
+  font: normal 15px Edwardian Script ITC;
+  color: #380B61;
+  border-radius: 8px;
+  border: 1px solid #380B61;
+  outline: none;
+}
