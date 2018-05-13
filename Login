@@ -52,3 +52,11 @@ border-radius: 2px;
   border: 1px solid #380B61;
   outline: none;
 }
+
+.input-div: hover{
+  background-color: #EE82EE;
+  }
+
+.input-div: hover input{
+  border-color: #EE82EE;
+}
