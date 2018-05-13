@@ -99,3 +99,16 @@ color: #FFFFFF;
       <div class= "input-div" id="input-usuario">
         <input type= "email" id="email" placeholder="Digite seu Email" required/>
         </div>
+      <div class="input-div" id="input-senha">
+        <input type="password" id="password" placeholder="Senha"/>
+      </div>
+
+      <div id="botoes">
+            <input type="submit" id="botao" value="Login">
+        <div id="lembrar-senha"><input type="checkbox"/> Lembrar minha senha</div>
+      </div>
+
+
+      </form>
+  </div>
+
