@@ -46,7 +46,7 @@ border-radius: 2px;
   width: 350px;
   height: 40px;
   padding-left: 6px;
-  font: normal 15px Edwardian Script ITC;
+  font: normal 25px Edwardian Script ITC;
   color: #380B61;
   border-radius: 8px;
   border: 1px solid #380B61;
