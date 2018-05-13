@@ -64,3 +64,8 @@ border-radius: 2px;
   #input-senha{
   margin-top: -10px;
 }
+
+ #botoes{
+  width: 310px;
+  margin-left: 25px;
+}
