@@ -82,3 +82,8 @@ box-shadow: 1px 1px 10px #f0f0f0;
 cursor: pointer;
 color: #FFFFFF;
 }
+
+ #lembrar-senha{
+  font: normal 12px Lucida Handwriting;
+  margin-left: 0px;
+}
