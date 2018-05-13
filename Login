@@ -69,3 +69,16 @@ border-radius: 2px;
   width: 310px;
   margin-left: 25px;
 }
+
+  #botao{
+float: right;
+margin-right: -30px;
+background-color: #FF00FF;
+padding: 2px 20px;
+font: normal 19px Pristina;
+border-radius: 30px;
+border: 2px solid #f0f0f0;
+box-shadow: 1px 1px 10px #f0f0f0;
+cursor: pointer;
+color: #FFFFFF;
+}
