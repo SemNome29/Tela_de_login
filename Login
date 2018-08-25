@@ -129,10 +129,12 @@ color: #FFFFFF;
         	alert( 'Login efetuado com sucesso!');
         	}
         	else {
-        	alert('Sua conta ou senha está incorreta!');
+        	alert('Sua conta ou senha esta incorreta!');
         	}
         }
         </script>
 
 </body>
 </html>
+
+<!---->
